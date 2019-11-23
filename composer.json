@@ -1,5 +1,5 @@
 {
-    "name": "stil/curl-robot",
+    "name": "teandr/curlrobot",
     "description": "Parallel URL crawling extension to curl-easy.",
     "license": "MIT",
     "require": {
