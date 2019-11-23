@@ -3,7 +3,7 @@
     "description": "Parallel URL crawling extension to curl-easy.",
     "license": "MIT",
     "require": {
-        "stil/curl-easy": "~1.2.1"
+        "teandr/curleasy": "dev-master"
     },
     "autoload": {
         "psr-4": {
